@@ -1,0 +1,151 @@
+
+
+
+.searchbar {
+    display: block;
+    margin-left:  auto;
+    margin-right: auto;
+    width: 500px;
+    height: 24px;
+    font-size: 18em;
+}
+
+
+
+#googlelogo {
+    display: block;
+    margin-top: 184px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 24px;
+}
+
+
+
+
+
+
+.bttncont {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 201px;
+}
+
+
+
+.gglsearch {
+    padding:0, 5px;
+    line-height: 27px;
+    height: 29px;
+    background-color: #f1f1f1;
+    border: 1px solid rgba(0,0,0,0.1);
+    border-radius: 2px;
+    color:#444;
+    margin: 11px, 8px;
+    min-width: 54px;
+    text-decoration:none;
+    font-family: sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+    text-align: center;
+    
+}
+.gglsearch:hover {
+    
+    box-shadow: 3px 3px 6px 0px #888888;  
+}
+
+.lucky {
+    padding:0, 5px;
+    line-height: 27px;
+    height: 29px;
+    background-color: #f1f1f1;
+    border: 1px solid rgba(0,0,0,0.1);
+    border-radius: 2px;
+    color:#444;
+    margin: 11px, 8px;
+    min-width: 54px;
+    text-decoration:none;
+    font-family: sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+    text-align: center;
+}
+.lucky:hover {
+    box-shadow: 3px 3px 6px 0px #888888;
+}
+
+.Login {
+    margin-top: 10px;
+    display: inline-block;
+    text-decoration: none;
+    margin-right: 18px;
+    text-align: center;
+    font-size: 13px;
+    font-family: sans-serif;
+    color: dimgray;
+    text-align: right; 
+}
+
+.header {
+    position: fixed;
+    text-align: right;
+    width: 280px;
+    top: 0px;
+    right: 0px;
+    
+}
+
+#SignIn {
+    line-height: 27px;
+    height: 29px;
+    background-color: royalblue;
+    border: 1px solid rgba(0,0,0,0.1);
+    border-radius: 3px;
+    color: white;
+    margin: 11px, 8px;
+    min-width: 75px;
+    min-height: 30px;
+    text-decoration:none;
+    font-family: sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.footerCont {
+    position: absolute;
+    bottom: 0px;
+    height: 42px;
+    width: 100%;
+    border: 1px solid darkgray;
+    background-color: gainsboro;
+}
+
+.left {
+    position: relative;
+    margin: 10px;
+    top: 10px;
+    left: 0px;
+    bottom: 5px;
+    align-content: center;
+    text-decoration: none;
+    color: dimgray;
+    font-family: serif;
+    font-size: 10;
+}
+
+.right {
+    float: right;
+    position: relative;
+    margin: 10px;
+    bottom: 18px;
+    align-content: center;
+    text-decoration: none;
+    color: dimgray;
+    font-family: serif;
+    font-size: 10;
+}
+
+
